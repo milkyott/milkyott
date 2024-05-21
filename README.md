@@ -1,4 +1,1 @@
---> Hey, Im Milky currently living in Germany plus im 15 Years old :D
---> Im coding wirh Python but also learning C++ 
---> I have my own Website check it out https://guns.lol/milky_ ;)
---> That´s all for now Bye ;))
+
